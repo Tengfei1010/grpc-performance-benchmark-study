@@ -3,7 +3,7 @@
 
 #### 1.1 Install grpc and grpc-go
 ``` sh
-$ ./run_install_requiements.sh
+$ ./install_requirements.sh
 # input your password
 $ git clone -b v1.2.3  https://github.com/grpc/grpc.git
 $ cd grpc
